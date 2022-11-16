@@ -1,0 +1,25 @@
+/* PRODUCT PAGE */
+ .left_col.column {
+     color: #000;
+     border: 3px solid #000;
+     border-radius: 25px;
+     margin-right: 10px;
+     padding-top: 1rem;
+     background-color: #fff;
+     opacity: .9;
+}
+ .left_col.column h1 {
+     font-family: "courier new", courier, monospace, san-serif;
+     color: #f69;
+     font-weight: extra-bold;
+}
+ .left_col.column hr {
+     border: none;
+     border-top: 2px solid #322;
+}
+ .right_col.column img {
+     border: 2px solid #000;
+}
+ .user_formatted table, .user_formatted table tr th, .user_formatted table tr td {
+     border: none;
+}
